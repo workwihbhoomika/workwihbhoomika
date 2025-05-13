@@ -12,9 +12,6 @@ I’m a passionate **Data Analyst** & **Business Analyst**, turning raw data int
 Let’s connect, learn, and grow together—one repo at a time.  
 You bring the ☕, I’ll bring the data! 🍪💻
 
----
-
-![Bhoomika’s Photo](https://avatars.githubusercontent.com/u/#######?s=200)  
 
 ---
 
