@@ -1,84 +1,90 @@
-# 👋 Hi, I'm **Bhoomika**!
+<div align="center" style="background-color:#ffebef; padding: 2rem; border-radius: 1rem;">
 
-Welcome to my GitHub profile! I'm a passionate **Data Analyst** and **Business Analyst** who thrives on transforming data into actionable insights and helping businesses drive smarter decisions. I'm continuously evolving my skills in **data science**, **data visualization**, and **analytics** through hands-on projects and real-world applications.
+# 🌸 Hey there, I’m so glad you’re here!
 
-![Bhoomika's Profile Image](YOUR_IMAGE_URL)
+Welcome to my little corner of GitHub!  
+I’m a passionate **Data Analyst** & **Business Analyst**, turning raw data into powerful insights that drive smarter decisions. Here, you'll discover:
 
-## 🚀 About Me
+🛠️ Cool projects I’m building or contributing to  
+📚 Lessons learned while juggling datasets, deadlines & dashboards  
+🌱 Inspiration for anyone thriving in the world of data  
 
-With a strong foundation in **data analysis**, **business intelligence**, and **problem-solving**, I specialize in leveraging data to uncover insights, optimize business processes, and provide actionable recommendations. I work with cutting-edge tools and technologies, and my work includes building data models, generating reports, and creating intuitive visualizations that help organizations achieve their business goals.
-
----
-
-## 🛠️ Technologies & Tools I Use
-
-### 💻 **Data Analytics & Business Intelligence**
-- **Python** 🐍 for data manipulation and analysis
-- **SQL** 🗃️ for database querying and reporting
-- **Power BI** 📊 for building interactive dashboards
-- **Excel** 📈 for advanced data analysis and visualization
-- **Tableau** 📊 for visualizing data insights
-- **Google Analytics** 📊 for web analytics and reporting
-
-### 🌐 **Cloud & Web**
-- **AWS** ☁️ for cloud computing and storage
-- **Google Cloud** ☁️ for scalable data processing
-- **Git & GitHub** 🧑‍💻 for version control and collaboration
+Let’s connect, learn, and grow together—one repo at a time.  
+You bring the ☕, I’ll bring the data! 🍪💻
 
 ---
 
-## 🧑‍💻 Featured Projects
-
-### 📊 [Market Analysis Dataset](https://github.com/bhoomika/market-analysis-dataset)
-A comprehensive analysis of market trends for 2024 using **Python** and **SQL**. This project demonstrates my ability to analyze large datasets and extract actionable business insights, helping businesses make strategic decisions based on data.
-
-### 🗂️ [Portfolio Website](https://bhoomikamamidi.vercel.app)
-Visit my **portfolio website** to explore my data analysis projects, interactive dashboards, and visualizations. I highlight key projects that reflect my skills and expertise in data analytics and business intelligence.
-
-### 🧑‍🔬 [Data Analytics Projects](https://github.com/bhoomika/data-analysis-projects)
-A repository showcasing various data analysis projects I've worked on. Each project demonstrates my ability to clean, analyze, and visualize data to drive business outcomes.
+![Bhoomika’s Photo](https://avatars.githubusercontent.com/u/#######?s=200)  
 
 ---
 
-## 🌱 Currently Learning:
-- **Advanced SQL**: Optimizing queries for performance and learning more about database management.
-- **Predictive Analytics**: Applying machine learning techniques to make data-driven predictions.
-- **Advanced Power BI**: Exploring new features and developing more complex dashboards.
+## 🌐 Connect with Me  
+<div align="center">
+  <a href="https://www.linkedin.com/in/bhoomika" target="_blank">  
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">  
+  </a>
+  <a href="https://www.instagram.com/bhoomika_creates" target="_blank">  
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram">  
+  </a>
+  <a href="https://twitter.com/bhoomika" target="_blank">  
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">  
+  </a>
+  <a href="https://www.youtube.com/channel/UCXXXXX" target="_blank">  
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" alt="YouTube">  
+  </a>
+  <a href="https://bhoomikamamidi.vercel.app" target="_blank">  
+    <img src="https://img.shields.io/badge/Portfolio-FE7F9C?style=for-the-badge&logo=aboutdotme" alt="Portfolio">  
+  </a>
+</div>
 
 ---
 
-## 🎓 Certifications
-
-- **Data Science with Python** – Coursera
-- **SQL for Data Analysts** – DataCamp
-- **Power BI for Data Analysis** – Udemy
-
----
-
-## 💬 Let's Connect
-
-- **LinkedIn**: [@Bhoomika](https://www.linkedin.com/in/bhoomika)
-- **Portfolio**: [bhoomikamamidi.vercel.app](https://bhoomikamamidi.vercel.app)
-- **Instagram**: [@bhoomika_creates](https://www.instagram.com/bhoomika_creates)
+## 💻 Tech Stack  
+<div align="center">  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python">  
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql" alt="SQL">  
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=power-bi" alt="Power BI">  
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau" alt="Tableau">  
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel" alt="Excel">  
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws" alt="AWS">  
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=google-cloud" alt="Google Cloud">  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">  
+</div>
 
 ---
 
-## 🖼️ Visuals of My Journey
+## 🧑‍💻 Projects I’m Building
 
-Here are some images that showcase my work with data and analytics tools:
+### 📊 [Market Analysis Dataset](https://github.com/bhoomika/market-analysis-dataset)  
+Deep dive into 2024 market trends using **Python** & **SQL**, uncovering actionable business insights.
 
-### 📊 **Power BI Dashboard**  
-![Power BI Dashboard](https://link-to-powerbi-image.com)
+### 🗂️ [Portfolio Website](https://bhoomikamamidi.vercel.app)  
+A sleek showcase of my interactive dashboards, code snippets, and analytics case studies.
 
-### 📈 **Excel Analysis**  
-![Excel Analysis](https://link-to-excel-image.com)
-
-### 🖥️ **Python Coding**  
-![Python Coding](https://link-to-python-image.com)
+### 🧑‍🔬 [Data Analytics Projects](https://github.com/bhoomika/data-analysis-projects)  
+A growing collection of real-world analyses—data cleaning, exploration & visualization to solve business problems.
 
 ---
 
-## 📬 Reach Out to Me:
-- **Email**: [bhoomika@example.com](mailto:bhoomika@example.com)
-- **Contact**: [bhoomikamamidi@outlook.com](mailto:bhoomikamamidi@outlook.com)
+## 🌱 Currently Learning  
+**Advanced SQL**: Performance tuning & complex joins  
+**Predictive Analytics**: Modeling with scikit-learn & StatsModels  
+**Interactive Dashboards**: Advanced features in Power BI & Tableau  
 
+---
+
+## 🎓 Certifications  
+<div align="center">  
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera" alt="Coursera">  
+  <img src="https://img.shields.io/badge/DataCamp-0dcaf0?style=for-the-badge&logo=datacamp" alt="DataCamp">  
+  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy" alt="Udemy">  
+</div>
+
+---
+
+## 📬 Let’s Chat!  
+I’m always up for a good data conversation or collaboration. Reach out anytime!  
+- 📧 [bhoomika@example.com](mailto:bhoomika@example.com)  
+- 📲 [bhoomikamamidi@outlook.com](mailto:bhoomikamamidi@outlook.com)  
+
+</div>
